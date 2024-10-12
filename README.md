@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @thebooleanface
-- 👀 I’m interested in coding, algorithms and math.
-- 🌱 I’m currently learning machine learning and deep learning.
-- 💞️ I’m looking to collaborate on any innovative project you can think of related to software
-- 📫 How to reach me: through github or twitter
+- 👋 Hi, I’m K.
+- 👀 I’m interested in mathematics, machine learning and ai.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: None
+- ⚡ Fun fact: None. 
 
 <!---
 thebooleanface/thebooleanface is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
