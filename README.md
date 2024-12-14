@@ -1,7 +1,7 @@
 - 👋 Hi, I’m K.
-- 👀 I’m interested in mathematics, machine learning and ai.
+- 👀 I’m interested in mathematics, machine learning, deep learning and AI.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: None. 
+
 
 <!---
 thebooleanface/thebooleanface is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
