@@ -1,10 +1,10 @@
-
+```
  /\_/\  
 ( o.o ) 
  > ^ <  
   /   \ 
  (     )
-
+```
 
 - 👋 Hi, I’m Krisha =^._.^=
 - 👀 I’m interested in mathematics, machine learning, deep learning and AI.
