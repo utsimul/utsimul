@@ -6,11 +6,7 @@
  (     )
 ```
 
-- 👋 Hi, I’m Krisha =^._.^=
-- 👀 I’m interested in mathematics, machine learning, deep learning and AI.
-- 😼 I like to make cool stuff.
-- 🏠 Schrödinger's box
-- 😄 Pronouns: she/her
+Coexistence is key.
 
 <!---
 thebooleanface/thebooleanface is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
