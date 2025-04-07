@@ -1,12 +1,6 @@
-```
- /\_/\  
-( o.o ) 
- > ^ <  
-  /   \ 
- (     )
-```
+**Interests**: Artificial Intelligence, Deep Learning, Mathematics, otherworldly conceptions
+Sentient being. 
 
-Coexistence is key.
 
 <!---
 thebooleanface/thebooleanface is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
