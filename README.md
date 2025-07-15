@@ -1,6 +1,7 @@
 Hi! I am Krisha.
 
-I'm interested in Mathematics, ML/DL, Artificial Intelligence and applications of all these concepts into finance. 
+I'm interested in "Mathematics", ML/DL and "Artificial Intelligence".
+I tweet more than I commit.
 
 
 
